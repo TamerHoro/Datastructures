@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="Dictionary.AVLTree">
+    <Position X="7.5" Y="15" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAIAEAAAAACAEAAACAAAAAAAAEAAAAAAAAIAAAAAAA=</HashCode>
+      <FileName>AVLTree.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.BinSearchTree">
+    <Position X="9.25" Y="9.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAgACBAAAACAgIAAAAAEAABAAABAAABAkAAA=</HashCode>
+      <FileName>BinSearchTree.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.LinkedList">
+    <Position X="10.5" Y="4.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAACAAAAAgAAAAgAEAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>LinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.DictionaryHash">
+    <Position X="20" Y="10.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAA=</HashCode>
+      <FileName>DictionaryHash.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictionary.HashTabQuadProb">
+    <Position X="17.75" Y="13.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAgAAAAAAAAAAAAAAAAAEAAAAAACAAAAAkAAA=</HashCode>
+      <FileName>HashTabQuadProb.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.HashTabSepChain">
+    <Position X="21.75" Y="13.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEACAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>HashTabSepChain.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.MultiSetSortedArray">
+    <Position X="22.75" Y="7.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAEAAAAACAAAAAAAgAAAACAEAAAAAQAAAAAAgAAA=</HashCode>
+      <FileName>MultiSetSortedArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.MultiSetSortedLinkedList">
+    <Position X="12.75" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAEAAAAAAAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiSetSortedLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.MultiSetUnsortedArray">
+    <Position X="16.75" Y="7.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAgACACCAAIAAAAAAAASAGAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>MultiSetUnsortedArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.MultiSetUnsortedLinkedList">
+    <Position X="6.25" Y="7.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>MultiSetUnsortedLinkedList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictionary.Program">
+    <Position X="7.75" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAACEABAAAAAAABAAQAAAAAQQAABADAAAAJQ=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictionary.SetSortedArray">
+    <Position X="25.75" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SetSortedArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.SetSortedLinkedList">
+    <Position X="12.75" Y="10.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SetSortedLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.SetUnsortedArray">
+    <Position X="20" Y="7.5" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SetUnsortedArray.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.SetUnsortedLinkedList">
+    <Position X="9.25" Y="7.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>SetUnsortedLinkedList.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.Treap">
+    <Position X="11.25" Y="14.75" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAACBAAAACAgIAAAAAEAAAAAABAAAAAEAAA=</HashCode>
+      <FileName>Treap.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Dictionary.Node" Collapsed="true">
+    <Position X="3.25" Y="7.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Node.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictionary.LLNode" Collapsed="true">
+    <Position X="2.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAIAAAA=</HashCode>
+      <FileName>LLNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dictionary.BTNode" Collapsed="true">
+    <Position X="4.25" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAgAA=</HashCode>
+      <FileName>BTNode.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Dictionary.IDictionary">
+    <Position X="16" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAkAAA=</HashCode>
+      <FileName>IDictionary.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dictionary.IMultiSetSorted">
+    <Position X="17.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMultiSetSorted.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dictionary.IMultiSetUnsorted">
+    <Position X="19.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IMultiSetUnsorted.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dictionary.ISetSorted">
+    <Position X="12.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISetSorted.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Dictionary.ISetUnsorted">
+    <Position X="15" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ISetUnsorted.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
